@@ -18,5 +18,4 @@ This project uses Natural Language Processing (NLP) to analyze sentiment in IMDb
 - Confusion matrix
 
 ## ✍️ Author
-Your Name
 Thirumala Naidu
